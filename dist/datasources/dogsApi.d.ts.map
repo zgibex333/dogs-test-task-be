@@ -1,0 +1,1 @@
+{"version":3,"file":"dogsApi.d.ts","sourceRoot":"","sources":["../../src/datasources/dogsApi.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,yBAAyB,CAAC;AACzD,OAAO,EAAE,GAAG,EAAE,MAAM,UAAU,CAAC;AAE/B,qBAAa,OAAQ,SAAQ,cAAc;IACzC,OAAO,SAAoC;IAErC,aAAa,CAAC,IAAI,EAAE,MAAM,GAAG,OAAO,CAAC,GAAG,EAAE,CAAC;CAWlD"}
